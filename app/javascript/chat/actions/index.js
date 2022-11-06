@@ -1,5 +1,6 @@
 const BASE_URL = 'https://wagon-chat.herokuapp.com';
 
+
 export const FETCH_MESSAGES = 'FETCH_MESSAGES';
 export const MESSAGE_POSTED = 'MESSAGE_POSTED';
 export const CHANNEL_SELECTED = 'CHANNEL_SELECTED';
